@@ -4,6 +4,7 @@
   - [Hobbies](#hobbies)
     - [Anime](#anime)
     - [Valorant](#valorant)
+
 ## Intro
 Hi! My name is Yinghui Sun and I'm a **fourth year** computer science major studying at **UCSD**.
 > “Every journey begins with a single step. We just have to have patience.”
